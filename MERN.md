@@ -186,6 +186,7 @@ What are virtuals?
 What are timestamps?
 How do you implement pagination using Mongoose?
 How do you optimize a slow Mongoose query?
+
 6. Authentication & security — very important
 
 This is another area I'd expect at 1–2 YOE.
